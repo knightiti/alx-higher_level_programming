@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" This module Accesses and updates the private attribute of a class named square """
+""" This module Accesses and updates the private attribute of a square """
 
 
 class Square:
